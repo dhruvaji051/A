@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /android.apk
+Disallow: /gen1.zip
